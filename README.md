@@ -47,8 +47,6 @@ Enter concurrent threads (default 200): 500
 [DONE] Finished in 28s. Hits saved to live.txt
 ```
 
-You can optionally add a **terminal demo GIF** here later.
-
 ---
 
 # 🧰 Requirements
